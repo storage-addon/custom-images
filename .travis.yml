@@ -4,7 +4,7 @@ dist: focal
 
 vm:
   create:
-    name: storage-addon-i3
+    name: storage-addon-i4
 
 script:
   - echo "Creating custom file"
